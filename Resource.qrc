@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/img/cie.jpg</file>
+        <file>Resources/img/spinBoxArrowDown.png</file>
+        <file>Resources/img/spinBoxArrowUp.png</file>
+        <file>Resources/img/spinBoxBorder.png</file>
+        <file>Resources/img/spinBoxBorderPressed.png</file>
+        <file>Resources/img/cie1.png</file>
+        <file>Resources/img/cie.grid.png</file>
+        <file>Resources/img/cie.grid.nums.png</file>
+    </qresource>
+</RCC>
